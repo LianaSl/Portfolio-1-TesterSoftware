@@ -1,38 +1,44 @@
+# 🧪 QA Portfolio | Liana Šljonkina
 
-<h1 align="center">🧪 QA Portfolio | Liana Sl</h1>
+> *Manual and automated testing, API & UI checks, bug reports, test cases — all in one place.*
 
-<p align="center">
-  <em>Manual and automated testing, API & UI checks, bug reports, test cases — all in one place.</em>
-</p>
-
----
-
-## 📁 Overview
-
-This repository serves as a showcase of my work in the field of software quality assurance.  
-Here, you will find a curated collection of artifacts related to:
-
-- Manual and automated tests
-- Test cases and checklists
-- Bug reports
-- API testing examples
-- QA documentation and reports
+📍 Prague, Czech Republic
+🔗 [Portfolio Website](https://lianasl.github.io/portfolio-2/)
+💼 [LinkedIn](https://linkedin.com/in/liana-%C5%A1ljonkina)
 
 ---
 
-## 🧰 Tools & Technologies
+## 👩‍💻 About Me
 
-| Area                  | Tools & Technologies                                  |
-|-----------------------|-------------------------------------------------------|
-| Manual Testing        | TestRail, Jira, Google Sheets, Chrome DevTools       |
-| Automation (optional) | Python, PyTest, Selenium                              |
-| API Testing           | Postman, Swagger, REST                                |
-| CI/CD (if used)       | GitHub Actions, Allure Reports                        |
-| Documentation         | Markdown, Excel, Notion, Confluence                  |
+I am a QA Engineer in transition with a background in management, retail, and healthcare.
+Currently studying at **STEP IT Academy** (Python & Full-Stack Development)
+and working as a freelance tester on **uTest**.
 
 ---
 
-## 📂 Repository Structure
+## 📋 Overview
 
+This repository is a showcase of my QA work:
 
+- ✅ Manual and automated tests
+- 🐛 Bug reports
+- 📝 Test cases and checklists
+- 🔌 API testing examples
+- 📊 QA documentation and reports
 
+---
+
+## 🛠️ Tools & Technologies
+
+| Area | Tools |
+|------|-------|
+| Manual Testing | Jira, Trello, TestRail, Chrome DevTools |
+| API Testing | Postman, REST, Swagger |
+| Automation | Selenium WebDriver, Python, PyTest |
+| Databases | SQL, PL/SQL |
+| CI/CD | GitHub Actions, Allure Reports |
+| Documentation | Markdown, Excel, Notion |
+
+---
+
+## 📁 Repository Structure
